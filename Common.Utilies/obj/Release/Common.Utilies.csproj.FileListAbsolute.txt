@@ -1,0 +1,4 @@
+E:\Source\Zebpay\Common.Utilies\bin\Release\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay\Common.Utilies\bin\Release\Zebpay.Common.Utilies.pdb
+E:\Source\Zebpay\Common.Utilies\obj\Release\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay\Common.Utilies\obj\Release\Zebpay.Common.Utilies.pdb

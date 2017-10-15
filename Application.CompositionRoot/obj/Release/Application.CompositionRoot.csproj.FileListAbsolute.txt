@@ -1,0 +1,40 @@
+E:\Source\Zebpay\Application.CompositionRoot\bin\Release\Zebpay.Application.CompositionRoot.dll.config
+E:\Source\Zebpay\Application.CompositionRoot\bin\Release\Zebpay.Application.CompositionRoot.dll
+E:\Source\Zebpay\Application.CompositionRoot\bin\Release\Zebpay.Application.CompositionRoot.pdb
+E:\Source\Zebpay\Application.CompositionRoot\bin\Release\Ninject.dll
+E:\Source\Zebpay\Application.CompositionRoot\bin\Release\Zebpay.Application.Dal.dll
+E:\Source\Zebpay\Application.CompositionRoot\bin\Release\Zebpay.Application.Entities.dll
+E:\Source\Zebpay\Application.CompositionRoot\bin\Release\Zebpay.Application.Repositories.dll
+E:\Source\Zebpay\Application.CompositionRoot\bin\Release\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay\Application.CompositionRoot\bin\Release\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay\Application.CompositionRoot\bin\Release\Zebpay.Application.Data.dll
+E:\Source\Zebpay\Application.CompositionRoot\bin\Release\Zebpay.Application.Dal.pdb
+E:\Source\Zebpay\Application.CompositionRoot\bin\Release\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay\Application.CompositionRoot\bin\Release\Zebpay.Application.Repositories.pdb
+E:\Source\Zebpay\Application.CompositionRoot\bin\Release\Zebpay.Common.Utilies.pdb
+E:\Source\Zebpay\Application.CompositionRoot\bin\Release\Zebpay.Web.ViewModels.pdb
+E:\Source\Zebpay\Application.CompositionRoot\bin\Release\Ninject.xml
+E:\Source\Zebpay\Application.CompositionRoot\bin\Release\Zebpay.Application.Data.pdb
+E:\Source\Zebpay\Application.CompositionRoot\obj\Release\Application.CompositionRoot.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay\Application.CompositionRoot\obj\Release\Zebpay.Application.CompositionRoot.dll
+E:\Source\Zebpay\Application.CompositionRoot\obj\Release\Zebpay.Application.CompositionRoot.pdb
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Release\Zebpay.Application.CompositionRoot.dll.config
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Release\Zebpay.Application.CompositionRoot.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Release\Zebpay.Application.CompositionRoot.pdb
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Release\Ninject.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Release\Zebpay.Application.Dal.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Release\Zebpay.Application.Entities.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Release\Zebpay.Application.Repositories.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Release\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Release\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Release\Zebpay.Application.Data.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Release\Zebpay.Application.Dal.pdb
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Release\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Release\Zebpay.Application.Repositories.pdb
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Release\Zebpay.Common.Utilies.pdb
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Release\Zebpay.Web.ViewModels.pdb
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Release\Ninject.xml
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Release\Zebpay.Application.Data.pdb
+E:\Source\Zebpay - Copy\Application.CompositionRoot\obj\Release\Application.CompositionRoot.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay - Copy\Application.CompositionRoot\obj\Release\Zebpay.Application.CompositionRoot.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\obj\Release\Zebpay.Application.CompositionRoot.pdb

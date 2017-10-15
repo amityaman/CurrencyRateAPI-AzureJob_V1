@@ -1,0 +1,27 @@
+E:\Source\Zebpay\Web.ViewModels\bin\Debug\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay\Web.ViewModels\bin\Debug\Zebpay.Web.ViewModels.pdb
+E:\Source\Zebpay\Web.ViewModels\obj\Debug\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay\Web.ViewModels\obj\Debug\Zebpay.Web.ViewModels.pdb
+E:\Source\Zebpay\Web.ViewModels\obj\Debug\Web.ViewModels.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay\Web.ViewModels\bin\Debug\Zebpay.Application.Entities.dll
+E:\Source\Zebpay\Web.ViewModels\bin\Debug\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay\Web.ViewModels\bin\Debug\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay\Web.ViewModels\bin\Debug\Zebpay.Common.Utilies.pdb
+E:\Source\Zebpay - Copy\Web.ViewModels\bin\Debug\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay - Copy\Web.ViewModels\bin\Debug\Zebpay.Web.ViewModels.pdb
+E:\Source\Zebpay - Copy\Web.ViewModels\bin\Debug\Zebpay.Application.Entities.dll
+E:\Source\Zebpay - Copy\Web.ViewModels\bin\Debug\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay - Copy\Web.ViewModels\bin\Debug\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay - Copy\Web.ViewModels\bin\Debug\Zebpay.Common.Utilies.pdb
+E:\Source\Zebpay - Copy\Web.ViewModels\obj\Debug\Web.ViewModels.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay - Copy\Web.ViewModels\obj\Debug\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay - Copy\Web.ViewModels\obj\Debug\Zebpay.Web.ViewModels.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Web.ViewModels\bin\Debug\Zebpay.Web.ViewModels.dll
+E:\Source\CurrencyRateAPI+AzureJob\Web.ViewModels\bin\Debug\Zebpay.Web.ViewModels.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Web.ViewModels\bin\Debug\Zebpay.Application.Entities.dll
+E:\Source\CurrencyRateAPI+AzureJob\Web.ViewModels\bin\Debug\Zebpay.Common.Utilies.dll
+E:\Source\CurrencyRateAPI+AzureJob\Web.ViewModels\bin\Debug\Zebpay.Application.Entities.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Web.ViewModels\bin\Debug\Zebpay.Common.Utilies.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Web.ViewModels\obj\Debug\Web.ViewModels.csprojResolveAssemblyReference.cache
+E:\Source\CurrencyRateAPI+AzureJob\Web.ViewModels\obj\Debug\Zebpay.Web.ViewModels.dll
+E:\Source\CurrencyRateAPI+AzureJob\Web.ViewModels\obj\Debug\Zebpay.Web.ViewModels.pdb

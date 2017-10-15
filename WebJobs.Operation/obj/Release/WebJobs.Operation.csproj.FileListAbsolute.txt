@@ -1,0 +1,24 @@
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Release\Zebpay.WebJobs.Operation.exe.config
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Release\Zebpay.WebJobs.Operation.exe
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Release\Zebpay.WebJobs.Operation.pdb
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Release\Newtonsoft.Json.dll
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Release\RestSharp.dll
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Release\System.Net.Http.Formatting.dll
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Release\Newtonsoft.Json.xml
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Release\RestSharp.xml
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Release\System.Net.Http.Formatting.xml
+E:\Source\Zebpay - Copy\WebJobs.Operation\obj\Release\WebJobs.Operation.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay - Copy\WebJobs.Operation\obj\Release\Zebpay.WebJobs.Operation.exe
+E:\Source\Zebpay - Copy\WebJobs.Operation\obj\Release\Zebpay.WebJobs.Operation.pdb
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Release\Zebpay.WebJobs.Operation.exe.config
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Release\Zebpay.WebJobs.Operation.exe
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Release\Zebpay.WebJobs.Operation.pdb
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Release\Newtonsoft.Json.dll
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Release\RestSharp.dll
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Release\System.Net.Http.Formatting.dll
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Release\Newtonsoft.Json.xml
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Release\RestSharp.xml
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Release\System.Net.Http.Formatting.xml
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\obj\Release\WebJobs.Operation.csprojResolveAssemblyReference.cache
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\obj\Release\Zebpay.WebJobs.Operation.exe
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\obj\Release\Zebpay.WebJobs.Operation.pdb

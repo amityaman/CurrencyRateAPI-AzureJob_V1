@@ -1,0 +1,35 @@
+E:\Source\Zebpay\Application.Dal\bin\Debug\Zebpay.Application.Dal.dll
+E:\Source\Zebpay\Application.Dal\bin\Debug\Zebpay.Application.Dal.pdb
+E:\Source\Zebpay\Application.Dal\obj\Debug\Application.Dal.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay\Application.Dal\obj\Debug\Zebpay.Application.Dal.dll
+E:\Source\Zebpay\Application.Dal\obj\Debug\Zebpay.Application.Dal.pdb
+E:\Source\Zebpay\Application.Dal\bin\Debug\Zebpay.Application.Data.dll
+E:\Source\Zebpay\Application.Dal\bin\Debug\Zebpay.Application.Entities.dll
+E:\Source\Zebpay\Application.Dal\bin\Debug\Zebpay.Application.Data.pdb
+E:\Source\Zebpay\Application.Dal\bin\Debug\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay - Copy\Application.Dal\bin\Debug\Zebpay.Application.Dal.dll
+E:\Source\Zebpay - Copy\Application.Dal\bin\Debug\Zebpay.Application.Dal.pdb
+E:\Source\Zebpay - Copy\Application.Dal\bin\Debug\Zebpay.Application.Data.dll
+E:\Source\Zebpay - Copy\Application.Dal\bin\Debug\Zebpay.Application.Entities.dll
+E:\Source\Zebpay - Copy\Application.Dal\bin\Debug\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay - Copy\Application.Dal\bin\Debug\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay - Copy\Application.Dal\bin\Debug\Zebpay.Application.Data.pdb
+E:\Source\Zebpay - Copy\Application.Dal\bin\Debug\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay - Copy\Application.Dal\bin\Debug\Zebpay.Web.ViewModels.pdb
+E:\Source\Zebpay - Copy\Application.Dal\bin\Debug\Zebpay.Common.Utilies.pdb
+E:\Source\Zebpay - Copy\Application.Dal\obj\Debug\Application.Dal.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay - Copy\Application.Dal\obj\Debug\Zebpay.Application.Dal.dll
+E:\Source\Zebpay - Copy\Application.Dal\obj\Debug\Zebpay.Application.Dal.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.Dal\bin\Debug\Zebpay.Application.Dal.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.Dal\bin\Debug\Zebpay.Application.Dal.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.Dal\bin\Debug\Zebpay.Application.Data.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.Dal\bin\Debug\Zebpay.Application.Entities.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.Dal\bin\Debug\Zebpay.Web.ViewModels.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.Dal\bin\Debug\Zebpay.Common.Utilies.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.Dal\bin\Debug\Zebpay.Application.Data.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.Dal\bin\Debug\Zebpay.Application.Entities.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.Dal\bin\Debug\Zebpay.Web.ViewModels.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.Dal\bin\Debug\Zebpay.Common.Utilies.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.Dal\obj\Debug\Application.Dal.csprojResolveAssemblyReference.cache
+E:\Source\CurrencyRateAPI+AzureJob\Application.Dal\obj\Debug\Zebpay.Application.Dal.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.Dal\obj\Debug\Zebpay.Application.Dal.pdb

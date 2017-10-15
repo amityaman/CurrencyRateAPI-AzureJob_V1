@@ -1,0 +1,22 @@
+E:\Source\Zebpay\Application.Dal\bin\Release\Zebpay.Application.Dal.dll
+E:\Source\Zebpay\Application.Dal\bin\Release\Zebpay.Application.Dal.pdb
+E:\Source\Zebpay\Application.Dal\bin\Release\Zebpay.Application.Data.dll
+E:\Source\Zebpay\Application.Dal\bin\Release\Zebpay.Application.Entities.dll
+E:\Source\Zebpay\Application.Dal\bin\Release\Zebpay.Application.Data.pdb
+E:\Source\Zebpay\Application.Dal\bin\Release\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay\Application.Dal\obj\Release\Application.Dal.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay\Application.Dal\obj\Release\Zebpay.Application.Dal.dll
+E:\Source\Zebpay\Application.Dal\obj\Release\Zebpay.Application.Dal.pdb
+E:\Source\Zebpay - Copy\Application.Dal\bin\Release\Zebpay.Application.Dal.dll
+E:\Source\Zebpay - Copy\Application.Dal\bin\Release\Zebpay.Application.Dal.pdb
+E:\Source\Zebpay - Copy\Application.Dal\bin\Release\Zebpay.Application.Data.dll
+E:\Source\Zebpay - Copy\Application.Dal\bin\Release\Zebpay.Application.Entities.dll
+E:\Source\Zebpay - Copy\Application.Dal\bin\Release\Zebpay.Application.Data.pdb
+E:\Source\Zebpay - Copy\Application.Dal\bin\Release\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay - Copy\Application.Dal\obj\Release\Application.Dal.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay - Copy\Application.Dal\obj\Release\Zebpay.Application.Dal.dll
+E:\Source\Zebpay - Copy\Application.Dal\obj\Release\Zebpay.Application.Dal.pdb
+E:\Source\Zebpay - Copy\Application.Dal\bin\Release\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay - Copy\Application.Dal\bin\Release\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay - Copy\Application.Dal\bin\Release\Zebpay.Web.ViewModels.pdb
+E:\Source\Zebpay - Copy\Application.Dal\bin\Release\Zebpay.Common.Utilies.pdb

@@ -1,0 +1,23 @@
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Debug\Zebpay.WebJobs.Operation.exe.config
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Debug\Zebpay.WebJobs.Operation.exe
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Debug\Zebpay.WebJobs.Operation.pdb
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Debug\Newtonsoft.Json.dll
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Debug\RestSharp.dll
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Debug\System.Net.Http.Formatting.dll
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Debug\Newtonsoft.Json.xml
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Debug\RestSharp.xml
+E:\Source\Zebpay - Copy\WebJobs.Operation\bin\Debug\System.Net.Http.Formatting.xml
+E:\Source\Zebpay - Copy\WebJobs.Operation\obj\Debug\Zebpay.WebJobs.Operation.exe
+E:\Source\Zebpay - Copy\WebJobs.Operation\obj\Debug\Zebpay.WebJobs.Operation.pdb
+E:\Source\Zebpay - Copy\WebJobs.Operation\obj\Debug\WebJobs.Operation.csprojResolveAssemblyReference.cache
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Debug\Zebpay.WebJobs.Operation.exe.config
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\obj\Debug\Zebpay.WebJobs.Operation.exe
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\obj\Debug\Zebpay.WebJobs.Operation.pdb
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Debug\Zebpay.WebJobs.Operation.exe
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Debug\Zebpay.WebJobs.Operation.pdb
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Debug\Newtonsoft.Json.dll
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Debug\RestSharp.dll
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Debug\System.Net.Http.Formatting.dll
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Debug\Newtonsoft.Json.xml
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Debug\RestSharp.xml
+E:\Source\CurrencyRateAPI+AzureJob\WebJobs.Operation\bin\Debug\System.Net.Http.Formatting.xml

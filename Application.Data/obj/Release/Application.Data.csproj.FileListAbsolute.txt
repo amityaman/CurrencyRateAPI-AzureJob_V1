@@ -1,0 +1,4 @@
+E:\Source\Zebpay\Application.Data\bin\Release\Zebpay.Application.Data.dll
+E:\Source\Zebpay\Application.Data\bin\Release\Zebpay.Application.Data.pdb
+E:\Source\Zebpay\Application.Data\obj\Release\Zebpay.Application.Data.dll
+E:\Source\Zebpay\Application.Data\obj\Release\Zebpay.Application.Data.pdb

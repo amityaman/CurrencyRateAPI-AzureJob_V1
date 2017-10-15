@@ -1,0 +1,60 @@
+E:\Source\Zebpay\Application.CompositionRoot\bin\Debug\Zebpay.Application.CompositionRoot.dll.config
+E:\Source\Zebpay\Application.CompositionRoot\bin\Debug\Zebpay.Application.CompositionRoot.dll
+E:\Source\Zebpay\Application.CompositionRoot\bin\Debug\Zebpay.Application.CompositionRoot.pdb
+E:\Source\Zebpay\Application.CompositionRoot\bin\Debug\Zebpay.Application.Repositories.dll
+E:\Source\Zebpay\Application.CompositionRoot\bin\Debug\Zebpay.Application.Repositories.pdb
+E:\Source\Zebpay\Application.CompositionRoot\obj\Debug\Application.CompositionRoot.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay\Application.CompositionRoot\obj\Debug\Zebpay.Application.CompositionRoot.dll
+E:\Source\Zebpay\Application.CompositionRoot\obj\Debug\Zebpay.Application.CompositionRoot.pdb
+E:\Source\Zebpay\Application.CompositionRoot\bin\Debug\Ninject.dll
+E:\Source\Zebpay\Application.CompositionRoot\bin\Debug\Ninject.xml
+E:\Source\Zebpay\Application.CompositionRoot\bin\Debug\Zebpay.Application.Dal.dll
+E:\Source\Zebpay\Application.CompositionRoot\bin\Debug\Zebpay.Application.Dal.pdb
+E:\Source\Zebpay\Application.CompositionRoot\bin\Debug\Zebpay.Application.Entities.dll
+E:\Source\Zebpay\Application.CompositionRoot\bin\Debug\Zebpay.Application.Data.dll
+E:\Source\Zebpay\Application.CompositionRoot\bin\Debug\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay\Application.CompositionRoot\bin\Debug\Zebpay.Application.Data.pdb
+E:\Source\Zebpay\Application.CompositionRoot\bin\Debug\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay\Application.CompositionRoot\bin\Debug\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay\Application.CompositionRoot\bin\Debug\Zebpay.Common.Utilies.pdb
+E:\Source\Zebpay\Application.CompositionRoot\bin\Debug\Zebpay.Web.ViewModels.pdb
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Debug\Zebpay.Application.CompositionRoot.dll.config
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Debug\Zebpay.Application.CompositionRoot.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Debug\Zebpay.Application.CompositionRoot.pdb
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Debug\Ninject.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Debug\Zebpay.Application.Dal.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Debug\Zebpay.Application.Entities.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Debug\Zebpay.Application.Repositories.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Debug\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Debug\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Debug\Zebpay.Application.Data.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Debug\Zebpay.Application.Dal.pdb
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Debug\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Debug\Zebpay.Application.Repositories.pdb
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Debug\Zebpay.Common.Utilies.pdb
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Debug\Zebpay.Web.ViewModels.pdb
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Debug\Ninject.xml
+E:\Source\Zebpay - Copy\Application.CompositionRoot\bin\Debug\Zebpay.Application.Data.pdb
+E:\Source\Zebpay - Copy\Application.CompositionRoot\obj\Debug\Application.CompositionRoot.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay - Copy\Application.CompositionRoot\obj\Debug\Zebpay.Application.CompositionRoot.dll
+E:\Source\Zebpay - Copy\Application.CompositionRoot\obj\Debug\Zebpay.Application.CompositionRoot.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\bin\Debug\Zebpay.Application.CompositionRoot.dll.config
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\bin\Debug\Zebpay.Application.CompositionRoot.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\bin\Debug\Zebpay.Application.CompositionRoot.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\bin\Debug\Ninject.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\bin\Debug\Zebpay.Application.Dal.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\bin\Debug\Zebpay.Application.Entities.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\bin\Debug\Zebpay.Application.Repositories.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\bin\Debug\Zebpay.Common.Utilies.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\bin\Debug\Zebpay.Web.ViewModels.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\bin\Debug\Zebpay.Application.Data.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\bin\Debug\Zebpay.Application.Dal.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\bin\Debug\Zebpay.Application.Entities.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\bin\Debug\Zebpay.Application.Repositories.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\bin\Debug\Zebpay.Common.Utilies.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\bin\Debug\Zebpay.Web.ViewModels.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\bin\Debug\Ninject.xml
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\bin\Debug\Zebpay.Application.Data.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\obj\Debug\Application.CompositionRoot.csprojResolveAssemblyReference.cache
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\obj\Debug\Zebpay.Application.CompositionRoot.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.CompositionRoot\obj\Debug\Zebpay.Application.CompositionRoot.pdb

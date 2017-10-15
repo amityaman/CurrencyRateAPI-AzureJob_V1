@@ -1,0 +1,4 @@
+E:\Source\Zebpay\Application.Entities\bin\Release\Zebpay.Application.Entities.dll
+E:\Source\Zebpay\Application.Entities\bin\Release\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay\Application.Entities\obj\Release\Zebpay.Application.Entities.dll
+E:\Source\Zebpay\Application.Entities\obj\Release\Zebpay.Application.Entities.pdb

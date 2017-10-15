@@ -1,0 +1,134 @@
+E:\Source\Zebpay\Application.API\Application.API\bin\roslyn\csc.exe
+E:\Source\Zebpay\Application.API\Application.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Source\Zebpay\Application.API\Application.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Source\Zebpay\Application.API\Application.API\bin\roslyn\System.Collections.Immutable.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\roslyn\System.Reflection.Metadata.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\roslyn\vbc.exe
+E:\Source\Zebpay\Application.API\Application.API\bin\roslyn\VBCSCompiler.exe
+E:\Source\Zebpay\Application.API\Application.API\bin\roslyn\VBCSCompiler.exe.config
+E:\Source\Zebpay\Application.API\Application.API\bin\Zebpay.Application.API.dll.config
+E:\Source\Zebpay\Application.API\Application.API\bin\Zebpay.Application.API.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\Zebpay.Application.API.pdb
+E:\Source\Zebpay\Application.API\Application.API\bin\Antlr3.Runtime.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\Microsoft.Web.Infrastructure.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\Newtonsoft.Json.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\Ninject.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\Ninject.Web.Common.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\Ninject.Web.WebApi.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Net.Http.Formatting.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.Helpers.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.Http.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.Http.WebHost.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.Mvc.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.Optimization.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.Razor.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.WebPages.Deployment.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.WebPages.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.WebPages.Razor.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\WebActivatorEx.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\WebGrease.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\Zebpay.Application.CompositionRoot.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\Zebpay.Application.Entities.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\Zebpay.Application.Repositories.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\Zebpay.Application.Dal.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\Zebpay.Application.Data.dll
+E:\Source\Zebpay\Application.API\Application.API\bin\Zebpay.Application.CompositionRoot.pdb
+E:\Source\Zebpay\Application.API\Application.API\bin\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay\Application.API\Application.API\bin\Zebpay.Application.Repositories.pdb
+E:\Source\Zebpay\Application.API\Application.API\bin\Zebpay.Common.Utilies.pdb
+E:\Source\Zebpay\Application.API\Application.API\bin\Zebpay.Web.ViewModels.pdb
+E:\Source\Zebpay\Application.API\Application.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Source\Zebpay\Application.API\Application.API\bin\Ninject.xml
+E:\Source\Zebpay\Application.API\Application.API\bin\Ninject.Web.Common.xml
+E:\Source\Zebpay\Application.API\Application.API\bin\Ninject.Web.WebApi.xml
+E:\Source\Zebpay\Application.API\Application.API\bin\Newtonsoft.Json.xml
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Net.Http.Formatting.xml
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.Helpers.xml
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.Http.xml
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.Http.WebHost.xml
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.Mvc.xml
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.Optimization.xml
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.Razor.xml
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.WebPages.xml
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.WebPages.Deployment.xml
+E:\Source\Zebpay\Application.API\Application.API\bin\System.Web.WebPages.Razor.xml
+E:\Source\Zebpay\Application.API\Application.API\bin\Antlr3.Runtime.pdb
+E:\Source\Zebpay\Application.API\Application.API\bin\Zebpay.Application.Dal.pdb
+E:\Source\Zebpay\Application.API\Application.API\bin\Zebpay.Application.Data.pdb
+E:\Source\Zebpay\Application.API\Application.API\obj\Release\Application.API.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay\Application.API\Application.API\obj\Release\Zebpay.Application.API.dll
+E:\Source\Zebpay\Application.API\Application.API\obj\Release\Zebpay.Application.API.pdb
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\roslyn\csc.exe
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\roslyn\System.Collections.Immutable.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\roslyn\System.Reflection.Metadata.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\roslyn\vbc.exe
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\roslyn\VBCSCompiler.exe
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\roslyn\VBCSCompiler.exe.config
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Zebpay.Application.API.dll.config
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Zebpay.Application.API.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Zebpay.Application.API.pdb
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Antlr3.Runtime.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Microsoft.Web.Infrastructure.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Newtonsoft.Json.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Ninject.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Ninject.Web.Common.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Ninject.Web.WebApi.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Net.Http.Formatting.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.Helpers.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.Http.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.Http.WebHost.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.Mvc.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.Optimization.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.Razor.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.WebPages.Deployment.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.WebPages.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.WebPages.Razor.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\WebActivatorEx.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\WebGrease.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Zebpay.Application.CompositionRoot.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Zebpay.Application.Entities.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Zebpay.Application.Repositories.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Zebpay.Application.Dal.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Zebpay.Application.Data.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Zebpay.Application.CompositionRoot.pdb
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Zebpay.Application.Repositories.pdb
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Zebpay.Common.Utilies.pdb
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Zebpay.Web.ViewModels.pdb
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Ninject.xml
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Ninject.Web.Common.xml
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Ninject.Web.WebApi.xml
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Newtonsoft.Json.xml
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Net.Http.Formatting.xml
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.Helpers.xml
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.Http.xml
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.Http.WebHost.xml
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.Mvc.xml
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.Optimization.xml
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.Razor.xml
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.WebPages.xml
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.WebPages.Deployment.xml
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\System.Web.WebPages.Razor.xml
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Antlr3.Runtime.pdb
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Zebpay.Application.Dal.pdb
+E:\Source\Zebpay - Copy\Application.API\Application.API\bin\Zebpay.Application.Data.pdb
+E:\Source\Zebpay - Copy\Application.API\Application.API\obj\Release\Application.API.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay - Copy\Application.API\Application.API\obj\Release\Zebpay.Application.API.dll
+E:\Source\Zebpay - Copy\Application.API\Application.API\obj\Release\Zebpay.Application.API.pdb

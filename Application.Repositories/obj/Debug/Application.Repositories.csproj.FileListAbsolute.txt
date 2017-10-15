@@ -1,0 +1,41 @@
+E:\Source\Zebpay\Application.Repositories\bin\Debug\Zebpay.Application.Repositories.dll
+E:\Source\Zebpay\Application.Repositories\bin\Debug\Zebpay.Application.Repositories.pdb
+E:\Source\Zebpay\Application.Repositories\obj\Debug\Zebpay.Application.Repositories.dll
+E:\Source\Zebpay\Application.Repositories\obj\Debug\Zebpay.Application.Repositories.pdb
+E:\Source\Zebpay\Application.Repositories\obj\Debug\Application.Repositories.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay\Application.Repositories\bin\Debug\Zebpay.Application.Dal.dll
+E:\Source\Zebpay\Application.Repositories\bin\Debug\Zebpay.Application.Dal.pdb
+E:\Source\Zebpay\Application.Repositories\bin\Debug\Zebpay.Application.Entities.dll
+E:\Source\Zebpay\Application.Repositories\bin\Debug\Zebpay.Application.Data.dll
+E:\Source\Zebpay\Application.Repositories\bin\Debug\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay\Application.Repositories\bin\Debug\Zebpay.Application.Data.pdb
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Debug\Zebpay.Application.Repositories.dll
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Debug\Zebpay.Application.Repositories.pdb
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Debug\Zebpay.Application.Dal.dll
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Debug\Zebpay.Application.Entities.dll
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Debug\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Debug\Zebpay.Application.Data.dll
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Debug\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Debug\Zebpay.Application.Dal.pdb
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Debug\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Debug\Zebpay.Web.ViewModels.pdb
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Debug\Zebpay.Application.Data.pdb
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Debug\Zebpay.Common.Utilies.pdb
+E:\Source\Zebpay - Copy\Application.Repositories\obj\Debug\Application.Repositories.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay - Copy\Application.Repositories\obj\Debug\Zebpay.Application.Repositories.dll
+E:\Source\Zebpay - Copy\Application.Repositories\obj\Debug\Zebpay.Application.Repositories.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.Repositories\bin\Debug\Zebpay.Application.Repositories.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.Repositories\bin\Debug\Zebpay.Application.Repositories.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.Repositories\bin\Debug\Zebpay.Application.Dal.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.Repositories\bin\Debug\Zebpay.Application.Entities.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.Repositories\bin\Debug\Zebpay.Web.ViewModels.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.Repositories\bin\Debug\Zebpay.Application.Data.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.Repositories\bin\Debug\Zebpay.Common.Utilies.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.Repositories\bin\Debug\Zebpay.Application.Dal.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.Repositories\bin\Debug\Zebpay.Application.Entities.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.Repositories\bin\Debug\Zebpay.Web.ViewModels.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.Repositories\bin\Debug\Zebpay.Application.Data.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.Repositories\bin\Debug\Zebpay.Common.Utilies.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.Repositories\obj\Debug\Application.Repositories.csprojResolveAssemblyReference.cache
+E:\Source\CurrencyRateAPI+AzureJob\Application.Repositories\obj\Debug\Zebpay.Application.Repositories.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.Repositories\obj\Debug\Zebpay.Application.Repositories.pdb

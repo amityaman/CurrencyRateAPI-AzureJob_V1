@@ -1,0 +1,18 @@
+E:\Source\Zebpay\Web.ViewModels\bin\Release\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay\Web.ViewModels\bin\Release\Zebpay.Web.ViewModels.pdb
+E:\Source\Zebpay\Web.ViewModels\bin\Release\Zebpay.Application.Entities.dll
+E:\Source\Zebpay\Web.ViewModels\bin\Release\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay\Web.ViewModels\bin\Release\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay\Web.ViewModels\bin\Release\Zebpay.Common.Utilies.pdb
+E:\Source\Zebpay\Web.ViewModels\obj\Release\Web.ViewModels.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay\Web.ViewModels\obj\Release\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay\Web.ViewModels\obj\Release\Zebpay.Web.ViewModels.pdb
+E:\Source\Zebpay - Copy\Web.ViewModels\bin\Release\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay - Copy\Web.ViewModels\bin\Release\Zebpay.Web.ViewModels.pdb
+E:\Source\Zebpay - Copy\Web.ViewModels\bin\Release\Zebpay.Application.Entities.dll
+E:\Source\Zebpay - Copy\Web.ViewModels\bin\Release\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay - Copy\Web.ViewModels\bin\Release\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay - Copy\Web.ViewModels\bin\Release\Zebpay.Common.Utilies.pdb
+E:\Source\Zebpay - Copy\Web.ViewModels\obj\Release\Web.ViewModels.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay - Copy\Web.ViewModels\obj\Release\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay - Copy\Web.ViewModels\obj\Release\Zebpay.Web.ViewModels.pdb

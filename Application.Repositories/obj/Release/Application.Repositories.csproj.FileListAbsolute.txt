@@ -1,0 +1,26 @@
+E:\Source\Zebpay\Application.Repositories\bin\Release\Zebpay.Application.Repositories.dll
+E:\Source\Zebpay\Application.Repositories\bin\Release\Zebpay.Application.Repositories.pdb
+E:\Source\Zebpay\Application.Repositories\bin\Release\Zebpay.Application.Dal.dll
+E:\Source\Zebpay\Application.Repositories\bin\Release\Zebpay.Application.Entities.dll
+E:\Source\Zebpay\Application.Repositories\bin\Release\Zebpay.Application.Data.dll
+E:\Source\Zebpay\Application.Repositories\bin\Release\Zebpay.Application.Dal.pdb
+E:\Source\Zebpay\Application.Repositories\bin\Release\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay\Application.Repositories\bin\Release\Zebpay.Application.Data.pdb
+E:\Source\Zebpay\Application.Repositories\obj\Release\Application.Repositories.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay\Application.Repositories\obj\Release\Zebpay.Application.Repositories.dll
+E:\Source\Zebpay\Application.Repositories\obj\Release\Zebpay.Application.Repositories.pdb
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Release\Zebpay.Application.Repositories.dll
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Release\Zebpay.Application.Repositories.pdb
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Release\Zebpay.Application.Dal.dll
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Release\Zebpay.Application.Entities.dll
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Release\Zebpay.Application.Data.dll
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Release\Zebpay.Application.Dal.pdb
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Release\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Release\Zebpay.Application.Data.pdb
+E:\Source\Zebpay - Copy\Application.Repositories\obj\Release\Application.Repositories.csprojResolveAssemblyReference.cache
+E:\Source\Zebpay - Copy\Application.Repositories\obj\Release\Zebpay.Application.Repositories.dll
+E:\Source\Zebpay - Copy\Application.Repositories\obj\Release\Zebpay.Application.Repositories.pdb
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Release\Zebpay.Web.ViewModels.dll
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Release\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Release\Zebpay.Web.ViewModels.pdb
+E:\Source\Zebpay - Copy\Application.Repositories\bin\Release\Zebpay.Common.Utilies.pdb

@@ -1,0 +1,14 @@
+E:\Source\Zebpay\Application.Entities\bin\Debug\Zebpay.Application.Entities.dll
+E:\Source\Zebpay\Application.Entities\bin\Debug\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay\Application.Entities\obj\Debug\Zebpay.Application.Entities.dll
+E:\Source\Zebpay\Application.Entities\obj\Debug\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay - Copy\Application.Entities\bin\Debug\Zebpay.Application.Entities.dll
+E:\Source\Zebpay - Copy\Application.Entities\bin\Debug\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay - Copy\Application.Entities\obj\Debug\Zebpay.Application.Entities.dll
+E:\Source\Zebpay - Copy\Application.Entities\obj\Debug\Zebpay.Application.Entities.pdb
+E:\Source\Zebpay - Copy\Application.Entities\obj\Debug\Application.Entities.csprojResolveAssemblyReference.cache
+E:\Source\CurrencyRateAPI+AzureJob\Application.Entities\bin\Debug\Zebpay.Application.Entities.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.Entities\bin\Debug\Zebpay.Application.Entities.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.Entities\obj\Debug\Application.Entities.csprojResolveAssemblyReference.cache
+E:\Source\CurrencyRateAPI+AzureJob\Application.Entities\obj\Debug\Zebpay.Application.Entities.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.Entities\obj\Debug\Zebpay.Application.Entities.pdb

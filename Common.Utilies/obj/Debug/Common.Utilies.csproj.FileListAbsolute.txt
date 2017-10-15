@@ -1,0 +1,14 @@
+E:\Source\Zebpay\Common.Utilies\bin\Debug\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay\Common.Utilies\bin\Debug\Zebpay.Common.Utilies.pdb
+E:\Source\Zebpay\Common.Utilies\obj\Debug\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay\Common.Utilies\obj\Debug\Zebpay.Common.Utilies.pdb
+E:\Source\Zebpay - Copy\Common.Utilies\bin\Debug\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay - Copy\Common.Utilies\bin\Debug\Zebpay.Common.Utilies.pdb
+E:\Source\Zebpay - Copy\Common.Utilies\obj\Debug\Zebpay.Common.Utilies.dll
+E:\Source\Zebpay - Copy\Common.Utilies\obj\Debug\Zebpay.Common.Utilies.pdb
+E:\Source\Zebpay - Copy\Common.Utilies\obj\Debug\Common.Utilies.csprojResolveAssemblyReference.cache
+E:\Source\CurrencyRateAPI+AzureJob\Common.Utilies\bin\Debug\Zebpay.Common.Utilies.dll
+E:\Source\CurrencyRateAPI+AzureJob\Common.Utilies\bin\Debug\Zebpay.Common.Utilies.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Common.Utilies\obj\Debug\Common.Utilies.csprojResolveAssemblyReference.cache
+E:\Source\CurrencyRateAPI+AzureJob\Common.Utilies\obj\Debug\Zebpay.Common.Utilies.dll
+E:\Source\CurrencyRateAPI+AzureJob\Common.Utilies\obj\Debug\Zebpay.Common.Utilies.pdb

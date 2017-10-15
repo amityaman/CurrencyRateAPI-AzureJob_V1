@@ -1,0 +1,14 @@
+E:\Source\Zebpay\Application.Data\bin\Debug\Zebpay.Application.Data.dll
+E:\Source\Zebpay\Application.Data\bin\Debug\Zebpay.Application.Data.pdb
+E:\Source\Zebpay\Application.Data\obj\Debug\Zebpay.Application.Data.dll
+E:\Source\Zebpay\Application.Data\obj\Debug\Zebpay.Application.Data.pdb
+E:\Source\Zebpay - Copy\Application.Data\bin\Debug\Zebpay.Application.Data.dll
+E:\Source\Zebpay - Copy\Application.Data\bin\Debug\Zebpay.Application.Data.pdb
+E:\Source\Zebpay - Copy\Application.Data\obj\Debug\Zebpay.Application.Data.dll
+E:\Source\Zebpay - Copy\Application.Data\obj\Debug\Zebpay.Application.Data.pdb
+E:\Source\Zebpay - Copy\Application.Data\obj\Debug\Application.Data.csprojResolveAssemblyReference.cache
+E:\Source\CurrencyRateAPI+AzureJob\Application.Data\bin\Debug\Zebpay.Application.Data.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.Data\bin\Debug\Zebpay.Application.Data.pdb
+E:\Source\CurrencyRateAPI+AzureJob\Application.Data\obj\Debug\Application.Data.csprojResolveAssemblyReference.cache
+E:\Source\CurrencyRateAPI+AzureJob\Application.Data\obj\Debug\Zebpay.Application.Data.dll
+E:\Source\CurrencyRateAPI+AzureJob\Application.Data\obj\Debug\Zebpay.Application.Data.pdb
